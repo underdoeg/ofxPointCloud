@@ -1,3 +1,9 @@
+#qt
+build-*/
+*.qbs.user
+example/bin/exampl*
+
+
 # Compiled Object files
 *.slo
 *.lo
